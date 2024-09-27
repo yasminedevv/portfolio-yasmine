@@ -1,0 +1,124 @@
+.skills-section {
+  margin: 45px 12px 0px 12px;
+  padding: 50px 0;
+  background-color:#7FA08D ; 
+  border-radius: 15px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.category {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+@media (prefers-color-scheme: dark) {
+  h2 {
+      color: black;
+  }
+}
+
+.category h3 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skill {
+  width: calc(25% - 20px);
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  display: flex;
+  align-items: center;
+}
+
+.skill:hover {
+  transform: translateY(-5px);
+}
+
+.skill svg {
+  width: 32px;
+  height: 32px;
+}
+
+.skill span {
+  font-size: 18px;
+  margin-left: 10px;
+  color: #555;
+}
+
+.html-icon {
+  color: rgba(255, 166, 0, 0.774);
+}
+
+.css-icon {
+  color: rgba(0, 0, 255, 0.772);
+}
+
+.js-icon {
+  color: rgb(255, 230, 0);
+}
+
+.react-icon {
+  color: rgba(0, 255, 255, 0.847);
+}
+
+.sass-icon {
+  color: pink;
+}
+
+.node-icon {
+  color: green;
+}
+
+.mongodb-icon {
+  color: #13aa52;
+}
+
+.express-icon {
+  color: #6e4e4e;
+}
+
+.seo-icon {
+  color: purple;
+}
+
+.debug-icon {
+  color: red;
+}
+
+@media (max-width: 768px) {
+  .skills-list {
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .skill {
+      width: calc(50% - 20px);
+      margin-bottom: 20px;
+  }
+
+  .skill svg {
+      width: 28px;
+      height: 28px;
+  }
+}
