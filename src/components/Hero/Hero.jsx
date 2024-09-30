@@ -22,7 +22,7 @@ const Hero = () => {
             allient design, fonctionalité et sécurité . 💻✨ Chaque projet est pour moi une opportunité de
             perfectionner mes compétences et d'explorer de nouvelles technologies. 🚀
           </p>
-          <button className='cta-button' onClick={scrollToProject}>Découvrez mes projets 🚀</button>
+          <button className='cta-button' onClick={scrollToProject}>Découvrez mes projets </button>
         </div>
         <div className="hero-image">
           <img src={moiImage} alt="Guerriche-yasmine" />
