@@ -2,11 +2,12 @@
   {
     "id": 1,
     "title": "Booki",
-    "coverPicture": "/images/booki-cover.png",
+    "coverPicture": "portfolio-yasmine/public/images/booki-cover.png" ,
+
     "images": [
-      "/images/booki1.png",
-      "/images/booki2.png",
-      "/images/booki3.png"
+      "portfolio-yasmine/public/images/booki1.png",
+      "portfolio-yasmine/public/images/booki2.png",
+      "portfolio-yasmine/public/images/booki3.png"
     ],
     "description": "Création de la page d'accueil d'une agence de voyage avec HTML & CSS.",
     "details": "Pour le projet Booki, j'ai intégrée une interface utilisateur permettant de réserver des hébergements et des activités dans diverses destinations. En collaboration étroite avec une équipe composée de la CTO, Sarah, et de l'UI designer, Loïc, j'ai transformée les maquettes pour les versions desktop, tablette et mobile en code HTML et CSS. Le projet incluait une base de code existante, le respect strict des spécifications techniques, et l'utilisation de Git pour le versionnement. Mon travail a permis de réaliser une interface responsive et ergonomique, fidèle aux attentes de l'équipe de design.",
@@ -17,11 +18,11 @@
     {
       "id": 2,
       "title": "Sophie Bluel Portfolio",
-      "coverPicture": "/images/sophie-cover.png",
+      "coverPicture": "portfolio-yasmine/public/images/sophie-cover.png",
       "images": [
-        "/images/sophie1.png",
-        "/images/sophie2.png",
-        "/images/sophie3.png"
+        "portfolio-yasmine/public/images/sophie1.png",
+        "portfolio-yasmine/public/images/sophie2.png",
+        "portfolio-yasmine/public/images/sophie3.png"
       ],
       "description": "Portfolio dynamique d'une architecte.",
       "details": "Pour le projet de portfolio de Sophie Bluel, photographe, j'ai renforcée l'équipe en tant que développeuse front-end. J'ai intégrée une galerie dynamique affichant les travaux, en utilisant des données fournies par l'API. J'ai également développée une page de connexion sécurisée pour l'administrateur, et mis en place une modale permettant l'upload d'images. En suivant les designs Figma et en collaborant étroitement avec l'équipe, j'ai contribuée à rendre le site à la fois fonctionnel et conforme aux attentes de la cliente.",
@@ -31,11 +32,11 @@
     {
       "id": 3,
       "title": "Nina Carducci",
-      "coverPicture": "/images/nina-cover.png",
+      "coverPicture": "portfolio-yasmine/public/images/nina-cover.png",
       "images": [
-        "/images/nina1.png",
-        "/images/nina2.png",
-        "/images/nina3.png"
+        "portfolio-yasmine/public/images/nina1.png",
+        "portfolio-yasmine/public/images/nina2.png",
+        "portfolio-yasmine/public/images/nina3.png"
       ],
       "description": "Optimisation du site web d'une photographe.",
       "details": "Dans le cadre de mon activité de développeuse web freelance, j'ai proposé mes compétences en optimisation SEO à Nina Carducci,  une photographe. Après un audit complet de son site, j'ai identifié des améliorations pour optimiser les performances et le référencement. J'ai travaillé sur la réduction de la taille des images, l'optimisation du code,et la vitesse de chargement. J'ai également utilisé les audits Lighthouse pour les performances et Wave pour l'accessibilité, afin de rendre le site plus performant et plus accessible.",
@@ -46,11 +47,11 @@
     {
       "id": 4,
       "title": "Kasa",
-      "coverPicture": "/images/kasa-cover.png",
+      "coverPicture": "portfolio-yasmine/public/images/kasa-cover.png",
       "images": [
-        "/images/kasa1.png",
-        "/images/kasa2.png",
-        "/images/kasa3.png"
+        "portfolio-yasmine/public/images/kasa1.png",
+        "portfolio-yasmine/public/images/kasa2.png",
+        "portfolio-yasmine/public/images/kasa3.png"
       ],
       "description": "Création d'une application web de location immobilière avec React.",
       "details": " Pour la refonte du site Kasa, j'ai pilotée le développement de l'application en utilisant React, en me basant sur les maquettes Figma fournies par Paul, le designer.  En attendant l'intégration du backend, j'ai utilisé un fichier JSON contenant les annonces de logements comme source de données. J'ai développé les composants React nécessaires, configuré les routes avec React Router, et ajouté des fonctionnalités interactives telles qu'une galerie d'images avec défilement circulaire et des sections Collapse pour un affichage dynamique des informations..",
@@ -60,11 +61,11 @@
     {
       "id": 5,
       "title": "Mon Vieux Grimoire",
-      "coverPicture": "/images/grimoire-cover.png",
+      "coverPicture": "portfolio-yasmine/public/images/grimoire-cover.png",
       "images": [
-        "/images/grimoire1.png",
-        "/images/grimoire2.png",
-        "/images/grimoire3.png"
+        "portfolio-yasmine/public/images/grimoire1.png",
+        "portfolio-yasmine/public/images/grimoire2.png",
+        "portfolio-yasmine/public/images/grimoire3.png"
       ],
       "description": "Développer le back-end d'un site de notation de livres.",
       "details": "Pour le projet Mon Vieux Grimoire, j'ai développée un serveur avec Express, connecté à une base de données MongoDB. J'ai mis en place la structure du serveur et gérée la communication avec la base de données, en implémentant des opérations CRUD pour la gestion des livres et des avis. J'ai également intégré un système d'authentification sécurisé et géré le téléchargement et l'optimisation des images. En suivant une architecture MVC et en utilisant Mongoose, j'ai veillée à la sécurité des données tout en respectant les bonnes pratiques du Green Code pour réduire l'empreinte écologique.",
