@@ -17,7 +17,7 @@ const Home = () => (
 );
 
 const App = () => (
-  <Router basename="/portfolio-yasmine">
+  <Router basename="/portfolio-yasmine/">
     <div className="App">
       <Navbar />
       <Routes>
