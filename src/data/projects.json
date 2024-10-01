@@ -47,11 +47,11 @@
     {
       "id": 4,
       "title": "Kasa",
-      "coverPicture": "/images/kasa-cover.png",
+      "coverPicture": "images/kasa-cover.png",
       "images": [
-        "/images/kasa1.png",
-        "/images/kasa2.png",
-        "/images/kasa3.png"
+        "images/kasa1.png",
+        "images/kasa2.png",
+        "images/kasa3.png"
       ],
       "description": "Création d'une application web de location immobilière avec React.",
       "details": " Pour la refonte du site Kasa, j'ai pilotée le développement de l'application en utilisant React, en me basant sur les maquettes Figma fournies par Paul, le designer.  En attendant l'intégration du backend, j'ai utilisé un fichier JSON contenant les annonces de logements comme source de données. J'ai développé les composants React nécessaires, configuré les routes avec React Router, et ajouté des fonctionnalités interactives telles qu'une galerie d'images avec défilement circulaire et des sections Collapse pour un affichage dynamique des informations..",
@@ -61,11 +61,11 @@
     {
       "id": 5,
       "title": "Mon Vieux Grimoire",
-      "coverPicture": "/images/grimoire-cover.png",
+      "coverPicture": "images/grimoire-cover.png",
       "images": [
-        "/images/grimoire1.png",
-        "/images/grimoire2.png",
-        "/images/grimoire3.png"
+        "images/grimoire1.png",
+        "images/grimoire2.png",
+        "images/grimoire3.png"
       ],
       "description": "Développer le back-end d'un site de notation de livres.",
       "details": "Pour le projet Mon Vieux Grimoire, j'ai développée un serveur avec Express, connecté à une base de données MongoDB. J'ai mis en place la structure du serveur et gérée la communication avec la base de données, en implémentant des opérations CRUD pour la gestion des livres et des avis. J'ai également intégré un système d'authentification sécurisé et géré le téléchargement et l'optimisation des images. En suivant une architecture MVC et en utilisant Mongoose, j'ai veillée à la sécurité des données tout en respectant les bonnes pratiques du Green Code pour réduire l'empreinte écologique.",
