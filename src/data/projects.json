@@ -34,9 +34,9 @@
       "title": "Nina Carducci",
       "coverPicture": "images/nina-cover.png",
       "images": [
-        "/images/nina1.png",
-        "/images/nina2.png",
-        "/images/nina3.png"
+        "images/nina1.png",
+        "images/nina2.png",
+        "images/nina3.png"
       ],
       "description": "Optimisation du site web d'une photographe.",
       "details": "Dans le cadre de mon activité de développeuse web freelance, j'ai proposé mes compétences en optimisation SEO à Nina Carducci,  une photographe. Après un audit complet de son site, j'ai identifié des améliorations pour optimiser les performances et le référencement. J'ai travaillé sur la réduction de la taille des images, l'optimisation du code,et la vitesse de chargement. J'ai également utilisé les audits Lighthouse pour les performances et Wave pour l'accessibilité, afin de rendre le site plus performant et plus accessible.",
