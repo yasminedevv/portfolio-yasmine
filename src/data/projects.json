@@ -11,6 +11,7 @@
     ],
     "description": "Création de la page d'accueil d'une agence de voyage avec HTML & CSS.",
     "details": "Pour le projet Booki, j'ai intégrée une interface utilisateur permettant de réserver des hébergements et des activités dans diverses destinations. En collaboration étroite avec une équipe composée de la CTO, Sarah, et de l'UI designer, Loïc, j'ai transformée les maquettes pour les versions desktop, tablette et mobile en code HTML et CSS. Le projet incluait une base de code existante, le respect strict des spécifications techniques, et l'utilisation de Git pour le versionnement. Mon travail a permis de réaliser une interface responsive et ergonomique, fidèle aux attentes de l'équipe de design.",
+    "problème": " Un des défis techniques a été la gestion du responsive design pour assurer une expérience utilisateur optimale sur mobile et tablette. La manipulation de Flexbox pour aligner correctement les éléments et gérer les espacements a nécessité plusieurs tests et ajustements. De plus, l'intégration des polices et des icônes tout en maintenant la performance du site a demandé une attention particulière.",
     "technologies": ["HTML", "CSS"],
     "githubLink": "https://github.com/yasminedevv/Projet_02_booki",
     "demoLink": "https://yasminedevv.github.io/Projet_02_booki/"
@@ -55,6 +56,7 @@
       ],
       "description": "Création d'une application web de location immobilière avec React.",
       "details": " Pour la refonte du site Kasa, j'ai pilotée le développement de l'application en utilisant React, en me basant sur les maquettes Figma fournies par Paul, le designer.  En attendant l'intégration du backend, j'ai utilisé un fichier JSON contenant les annonces de logements comme source de données. J'ai développé les composants React nécessaires, configuré les routes avec React Router, et ajouté des fonctionnalités interactives telles qu'une galerie d'images avec défilement circulaire et des sections Collapse pour un affichage dynamique des informations..",
+      "problème":"Rendre le site Kasa dynamique a été un défi, surtout pour afficher les détails des logements sans recharger la page. J'ai résolu ce problème en utilisant React Router pour créer des liens dynamiques vers chaque logement. Grâce à des composants réutilisables et à la gestion de l'état avec React, j'ai pu offrir une expérience fluide où les informations se mettaient à jour instantanément, améliorant ainsi l'engagement des utilisateurs.",
       "technologies": ["React", "Sass"],
       "githubLink": "https://github.com/yasminedevv/Openclassrooms_projet_05"
     },

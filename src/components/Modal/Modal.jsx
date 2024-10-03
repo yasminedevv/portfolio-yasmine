@@ -9,6 +9,14 @@ const Modal = ({ project, onClose }) => {
         <button className="close-button" onClick={onClose}>&times;</button> {/* Bouton pour fermer la modal */}
         <h2>{project.title}</h2> {/* Titre du projet affiché dans la modal */}
         <p>{project.details}</p> {/* Détails du projet affichés dans la modal */}
+         {/* Section pour afficher les problèmes rencontrés */}
+         {project.problème && (
+  <>
+    <h3><strong>Problèmes rencontrés :</strong></h3>
+    <p>{project.problème}</p> {/* Affichage des problèmes */}
+  </>
+)}
+
         <div className="project-images"> {/* Section pour afficher les images du projet */}
           {project.images.map((image, index) => (
             <img key={index} src={image} alt={`${project.title} ${index + 1}`} />
